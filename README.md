@@ -14,4 +14,6 @@ I also have a cocalc (https://cocalc.com/app) project for those who do not want 
 
 # Some results
 
+![Conductance](/Conductance.png)
 
+![Armchair Lattice](/Lattice_AC.png)
