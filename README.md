@@ -10,10 +10,10 @@ Files so far are:
 * zz-functionalstudy.ipynb : Code for testing dependance between vacancies and conductance in ZZGNR.
 
 
-Files are in format ipynb so JupyterNotebook (https://jupyter.org/); also, libraries Numpy (https://numpy.org/) Kwant (https://kwant-project.org/) and Matplotlib (https://matplotlib.org/) are needed.
+Files are in format ipynb so JupyterNotebook (https://jupyter.org/); also, libraries Numpy (https://numpy.org/) Kwant (https://kwant-project.org/) and Matplotlib (https://matplotlib.org/) are needed. For ac/zz-fucntionalstudy.ipynb Pandas, CSV and OS need to be also included.
 Anaconda distribution is recomended (https://www.anaconda.com/distribution/) which already has pre-installed those libraries.
 
-I also have a cocalc (https://cocalc.com/app) project for those who do not want to download those libraries or use JupyterNotebook, if you want to join just send me an e-mail to iriansan@ucm.es asking for it.
+Both testing notebooks have acces to a file in google colab if you do not want to download anaconda/install the required libraries..
 
 # Some results
 
