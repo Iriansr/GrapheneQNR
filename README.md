@@ -22,4 +22,9 @@ Both testing notebooks have acces to a file in google colab if you do not want t
 
 ![Armchair Lattice](/latticeac.png)
 
+![DoS](/DoS.png)
+
+![LDoS](/LDoS.png)
+
+
 
