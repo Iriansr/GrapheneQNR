@@ -2,13 +2,13 @@
 
 In this repository you can find electronic quantumm transport in graphene using kwant for my bachelor's thesis using python and more specifically kwant.
 
-Files so far are:
+Files so far are (currently working in optimizing code of testing_zz.ipynb)
 
 * GrapheneNR AC.ipynb  : Code for quantumm transport in armchair graphene nanoribbons (w and w/o vacants).
 * GrapheneNR(ZZ).ipynb : Code for quantumm transport in zigzag graphene nanoribbons (w and w/o vacants).
 * ac-functionalstudy.ipynb : Code for testing dependance between vacancies and conductance in ACGNR.
 * zz-functionalstudy.ipynb : Code for testing dependance between vacancies and conductance in ZZGNR.
-* impurities_zz.ipynb : Code for testing effects vacancies and impurities in conductance in ZZGNR.
+* testing_zz.ipynb {Most complete}: Code for testing effects vacancies and impurities in conductance in ZZGNR.
 
 
 Files are in format ipynb so JupyterNotebook (https://jupyter.org/); also, libraries Numpy (https://numpy.org/) Kwant (https://kwant-project.org/) and Matplotlib (https://matplotlib.org/) are needed. For ac/zz-fucntionalstudy.ipynb Pandas, CSV and OS need to be also included.
